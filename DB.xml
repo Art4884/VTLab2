@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.company.PersistenceLayer.Headphones">
+    <void property="name">
+     <string>Samsung Galaxy Buds 2</string>
+    </void>
+    <void property="price">
+     <double>370.74</double>
+    </void>
+    <void property="type">
+     <string>in-ear</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.PersistenceLayer.Headphones">
+    <void property="name">
+     <string>JBL Tune 510BT</string>
+    </void>
+    <void property="price">
+     <double>88.78</double>
+    </void>
+    <void property="type">
+     <string>on-ear</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.PersistenceLayer.Headphones">
+    <void property="name">
+     <string>Sony WH-1000XM4</string>
+    </void>
+    <void property="price">
+     <double>799.0</double>
+    </void>
+    <void property="type">
+     <string>monitor</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.PersistenceLayer.TV">
+    <void property="name">
+     <string>Samsung QE55Q67AAU</string>
+    </void>
+    <void property="price">
+     <double>2090.0</double>
+    </void>
+    <void property="screenType">
+     <string>LCD</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.PersistenceLayer.TV">
+    <void property="name">
+     <string>Panasonic TX-PR50G20</string>
+    </void>
+    <void property="price">
+     <double>550.0</double>
+    </void>
+    <void property="screenType">
+     <string>plasma</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.PersistenceLayer.TV">
+    <void property="name">
+     <string>LG OLED65C1RLA</string>
+    </void>
+    <void property="price">
+     <double>3400.0</double>
+    </void>
+    <void property="screenType">
+     <string>OLED</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
